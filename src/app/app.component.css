@@ -1,0 +1,30 @@
+.forms{
+    background-color: #0b0b0ccc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.one{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border: none;
+    margin-top: 10px;
+    padding-right: 110px;
+    padding-left: 110px;
+}
+.ones{
+    color: #c45656;
+    font-size: large;
+    margin-top: 10px;
+}
+.btn{
+    background: blue;
+    margin-bottom: 20px;
+    padding-right: 180px;
+    padding-left: 180px;
+    border: none;
+    color: white;
+    font-weight: 600;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
